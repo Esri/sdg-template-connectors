@@ -1,4 +1,4 @@
-## DHS SDG Solution Connector
+## DHS SDG Hub Template Connector
 
 This script will allow the user to select mulitple countries and surveys from the DHS api and map those indicators over the SDG Schema.
 

@@ -1,12 +1,12 @@
-## SDG Solution Connectors
+## SDG Template Connectors
 
-This repository will hold data connectors to various APIs and data systems. These connectors will allow for the extract, transform, and output of data tagged with the appropriate SDG Metadata and formatted in the SDG Solution Schema.
+This repository will hold data connectors to various APIs and data systems. These connectors will allow for the extract, transform, and output of data tagged with the appropriate SDG Metadata and formatted in the SDG Hub Template Schema.
 
 ## Connectors
 
 ### DHS
 
-The [DHS](https://dhsprogram.com/) program provides demographic and health survey data in over 90 countries. This connector will pull data directly from the DHS API, tag the information with relevant SDG metadata, and output in a data schema that the SDG Solution uses.
+The [DHS](https://dhsprogram.com/) program provides demographic and health survey data in over 90 countries. This connector will pull data directly from the DHS API, tag the information with relevant SDG metadata, and output in a data schema that the SDG Hub Template uses.
 
 ## Issues
 
